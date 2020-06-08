@@ -6,8 +6,14 @@ NIM : 185610075
 
 ----
 
+Latihan
+
 ![pic-1.png](Picture1.png)
+Pada gambar 1 di praktikum ini kita menggunakan perintah create database testDB; yang berarti membuat database dengan nama testDB. Dan kita mencoba hasil tambahan database yang kita buat dengan perintah show databases; 
+
 ![pic-2.png](Picture2.png)
+Pada gambar 2 di praktikum ini kita menggunakan perintah drop database testDB; yang berarti kita akan menghapus database sekaligus semua tabel yang ada didalam database testDB. Dan kita mencoba hasil tambahan database yang kita buat dengan perintah show databases; 
+
 ![pic-3.png](Picture3.png)
 ![pic-4.png](Picture4.png)
 ![pic-5.png](Picture5.png)
@@ -24,6 +30,9 @@ NIM : 185610075
 ![pic-16.png](Picture16.png)
 ![pic-17.png](Picture17.png)
 ![pic-18.png](Picture18.png)
+
+Tugas
+
 ![pic-19.png](tugas1.png)
 ![pic-20.png](tugas2.png)
 ![pic-21.png](tugas3.png)
